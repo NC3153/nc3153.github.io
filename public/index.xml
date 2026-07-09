@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Docs-As-Code - Hugo Test 1</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Docs-As-Code - Hugo Test 1</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 07 Jul 2026 21:45:39 -0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Diagrams</title>
+				<link>http://localhost:1313/posts/diagrams/</link>
+				<pubDate>Tue, 07 Jul 2026 21:45:39 -0700</pubDate>
+				<guid>http://localhost:1313/posts/diagrams/</guid>
+				<description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Diagrams are a key component for describing complex systems and proceesses.&lt;/p&gt;&#xA;&lt;h3 id=&#34;data-flow-diagrams&#34;&gt;Data-Flow Diagrams&lt;/h3&gt;&#xA;&lt;p&gt;Partnering with engineering leads to create technical data-flow diagrams allows the porgram team to threat model architectural designs and achieve a shared understanding of the system.&lt;/p&gt;&#xA;&lt;h3 id=&#34;process-diagrams&#34;&gt;Process Diagrams&lt;/h3&gt;&#xA;&lt;p&gt;From internal documentation processes to cross-fuctional processes, diagrams ensure all stakeholders understand the requirements, dependencies, and timing of the key process components.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/quickstart/content/graphics/ProcessDiagram.jpg&#34; alt=&#34;Basic Process Diagram&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Schedules</title>
+				<link>http://localhost:1313/posts/schedules/</link>
+				<pubDate>Tue, 07 Jul 2026 21:45:19 -0700</pubDate>
+				<guid>http://localhost:1313/posts/schedules/</guid>
+				<description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The schedule complexity depends on the scope of the project and the specific deliverables involved.&lt;/p&gt;&#xA;&lt;h3 id=&#34;minor-updates&#34;&gt;Minor Updates&lt;/h3&gt;&#xA;&lt;p&gt;Scheules for minor updates usually involve only one or two rounds of edits before routing in the Content Management System (CMS).&lt;/p&gt;&#xA;&lt;h3 id=&#34;major-updates&#34;&gt;Major Updates&lt;/h3&gt;&#xA;&lt;p&gt;Scheudules for major updates can involve several rounds of updates and can include the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Multiple products&lt;/li&gt;&#xA;&lt;li&gt;Multiple product variants&lt;/li&gt;&#xA;&lt;li&gt;Multiple timelines based on market needs&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Templates</title>
+				<link>http://localhost:1313/posts/templates/</link>
+				<pubDate>Tue, 07 Jul 2026 21:44:19 -0700</pubDate>
+				<guid>http://localhost:1313/posts/templates/</guid>
+				<description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Templates are required to ensure consistency, efficiency, and predictability for all deliverables.&lt;/p&gt;&#xA;&lt;h3 id=&#34;user-guide-templates&#34;&gt;User Guide Templates&lt;/h3&gt;&#xA;&lt;p&gt;User guide templates include all paragraph styles, character styles, formatting, tables, page layouts, hypertext, conditional formatting, and publishing requirements needed to create, edit, and publish the final deliverables.&lt;/p&gt;&#xA;&lt;h3 id=&#34;bulletin-templates&#34;&gt;Bulletin Templates&lt;/h3&gt;&#xA;&lt;p&gt;Bulletin templates are based on the user guide templates but include specific page layouts and table structures. The rest of the attributes (paragraph styles, character styles, formatting, etc.) are the same.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Style Guides</title>
+				<link>http://localhost:1313/posts/styleguides/</link>
+				<pubDate>Tue, 07 Jul 2026 21:43:52 -0700</pubDate>
+				<guid>http://localhost:1313/posts/styleguides/</guid>
+				<description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Style guides are required to ensure consistency and efficiency throughout the writing process. Style guides include format guidelines, rules and best practices for the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GUI Terminology&lt;/li&gt;&#xA;&lt;li&gt;Numbers&lt;/li&gt;&#xA;&lt;li&gt;Punctuation&lt;/li&gt;&#xA;&lt;li&gt;Graphics&lt;/li&gt;&#xA;&lt;li&gt;Spelling word usage&lt;/li&gt;&#xA;&lt;li&gt;Company word usage&lt;/li&gt;&#xA;&lt;li&gt;Template use&lt;/li&gt;&#xA;&lt;li&gt;Styles&lt;/li&gt;&#xA;&lt;li&gt;Formatting&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Hello There</title>
+				<link>http://localhost:1313/posts/hello-there/</link>
+				<pubDate>Tue, 07 Jul 2026 21:10:18 -0700</pubDate>
+				<guid>http://localhost:1313/posts/hello-there/</guid>
+				<description>&lt;h2 id=&#34;hello-there&#34;&gt;Hello There&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/quickstart/content/graphics/Obi-Wan-Kenobi-Quotes-Top10-3-945x945.jpg&#34; alt=&#34;Obi-Wan Kenobi Greeting&#34;&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
