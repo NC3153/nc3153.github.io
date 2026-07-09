@@ -5,4 +5,4 @@ title = 'Hello There'
 
 ## Hello There
 
-![Obi-Wan Kenobi Greeting](/quickstart/content/graphics/Obi-Wan-Kenobi-Quotes-Top10-3-945x945.jpg)
+![Obi-Wan Kenobi Greeting](Obi-Wan-Kenobi-Quotes-Top10-3-945x945.jpg)

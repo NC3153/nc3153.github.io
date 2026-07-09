@@ -15,4 +15,4 @@ Partnering with engineering leads to create technical data-flow diagrams allows 
 
 From internal documentation processes to cross-fuctional processes, diagrams ensure all stakeholders understand the requirements, dependencies, and timing of the key process components.
 
-![Basic Process Diagram](/quickstart/content/graphics/ProcessDiagram.jpg)
+![Basic Process Diagram](ProcessDiagram.jpg)
