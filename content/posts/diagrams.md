@@ -1,6 +1,5 @@
 +++
 date = '2026-07-07T21:45:39-07:00'
-draft = true
 title = 'Diagrams'
 +++
 

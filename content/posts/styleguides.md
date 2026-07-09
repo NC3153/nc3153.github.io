@@ -1,6 +1,5 @@
 +++
 date = '2026-07-07T21:43:52-07:00'
-draft = true
 title = 'Style Guides'
 +++
 
